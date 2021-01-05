@@ -1,0 +1,12 @@
+{
+    "testFiles": [
+        "login.ts",
+        "sidebar.ts",
+        "appSelector.ts",
+        "accountSelector.ts",
+        "locationSelector.ts",
+        "MSOSelector.ts",
+        "changePassword.ts",
+        "signout.ts"
+    ]
+}
