@@ -49,6 +49,22 @@ Cypress.Commands.add('loginFailed', () => {
     })
 })
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 declare namespace Cypress {
     interface Chainable<Subject> {
         login(): Cypress.Chainable<void>;

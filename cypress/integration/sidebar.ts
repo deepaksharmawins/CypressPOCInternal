@@ -10,7 +10,7 @@ describe('Sidebar', function () {
 
         cy.intercept('/api/core/init').as('waitForResponse')
         cy.wait('@waitForResponse')
-        cy.wait(10000);
+        cy.wait(11000);
 
         //click on sidebar hamburger menu
         cy.get('.sidebar-collapse')

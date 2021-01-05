@@ -1,13 +1,13 @@
 {
   "primaryUsername": "manasbiswaswins@gmail.com",
   "primaryPassword": "Techie@1234",
-  "secondaryUsername": "asdfghjkl",
+  "secondaryUsername": "manasbiswas@gmail.com",
   "secondaryPassword": "1234567890",
   "newPassword": "Techie@1234",
   "baseUrl": "https://driveshopsdev.app/login",
 
 
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "name": "Running POC for cypress test cases.",
+  "email": "manasbiswaswins@gmail.com",
+  "body": "Fixtures are used to store global variables."
 }
